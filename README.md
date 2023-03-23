@@ -31,6 +31,10 @@ completed.
 
 CREATE A DATABASE IN JAVASCRIPT:
 
+![javascript1](https://user-images.githubusercontent.com/125812863/227241014-2a41da7e-c989-47ae-aece-960b12e41d5c.png)
+![javascript2](https://user-images.githubusercontent.com/125812863/227241105-37928132-875a-4ed0-a2f2-80a3daa5ab77.png)
+
+
 // User collection.
 
 {
