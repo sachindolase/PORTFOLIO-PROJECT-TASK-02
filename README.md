@@ -110,7 +110,9 @@ programming language and framework you're using for your backend. However, the g
 configuration options.
 3. Once you have established a connection to the MongoDB server, you can perform CRUD (create, read, 
 update, delete) operations on your database through the driver's API
+![Atlas](https://user-images.githubusercontent.com/125812863/227239488-a1c6ed91-faf6-4126-ad36-afbc7cef4d54.png)
 
+![connect](https://user-images.githubusercontent.com/125812863/227239728-9c4bdb59-d65b-4da0-a02f-8f6917858a96.png)
 
 Using VS Code or cmd perform CRUD Operations: 
  Let's run through the default MongoDB Playground template that's created when you initialize a new Playground. In the default template, it 
@@ -144,6 +146,8 @@ Define all the routes of the backend:
 Defining routes in a backend application depends on the specific framework or library used, as 
 well as the application's functionality and requirements. However, here is a general example of 
 defining routes in a Node.js backend using the Express framework:
+![express1](https://user-images.githubusercontent.com/125812863/227240136-9a83a207-97d2-42c1-85e2-5d1f4e748099.png)
+
 
 CREATE A CRUD OPERATION IN NODE.JS:
 
@@ -174,6 +178,8 @@ Add authentication middleware:
 Adding authentication middleware to a backend application can help ensure that only authorized users can
 access certain routes or perform certain actions. Here is an example of how to add authentication
 middleware to a Node.js backend using the Express framework:
+![expressrouter](https://user-images.githubusercontent.com/125812863/227240258-8601324b-5933-47bd-aafe-5eccdaaf661f.png)
+
 
 CREATE A MIDDLEWARE AUTHENTICATION IN NODE.JS AND EXPRESS FRAMEWORK:
 
@@ -237,6 +243,7 @@ function authenticate(req, res, next){
 }
 module.exports = { authenticate };
 
+![authenticate](https://user-images.githubusercontent.com/125812863/227240466-a34908b3-67cb-4fe9-9f52-480fcc0813cd.png)
 
 
 Step-Wise Description 
